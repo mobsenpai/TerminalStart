@@ -22,13 +22,13 @@ Edit the links object in the <script> section of bestone.html to add or modify c
 Replace the background image by updating the background URL in the CSS.
 
 ## Example Commands
-📺 youtube: Opens YouTube.
+📺 youtube: Opens Freetube.
 
 🎮 steam: Opens Steam.
 
 🐙 github: Opens GitHub.
 
-search <query>: Performs a Google search.
+search <query>: Performs a Searx search.
 
 ## Technologies Used
 HTML, CSS, JavaScript
